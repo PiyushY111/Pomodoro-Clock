@@ -1,0 +1,9 @@
+@import '../index.css';
+
+.incDecButtons {
+	@apply cursor-pointer text-2xl hover:scale-110 transition-all
+}
+
+.startRestartButtons {
+	@apply px-10 py-2 text-2xl bg-[#FFFFFF] rounded-md text-black cursor-pointer hover:scale-105 transition-all
+}

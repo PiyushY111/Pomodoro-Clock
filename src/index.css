@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'ArialRounded';
+  src: url('./assets/fonts/ARIALROUNDEDMT.TTF')
+    format('truetype');
+}
+
+#root {
+	font-family: 'ArialRounded', sans-serif;
+}
